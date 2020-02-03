@@ -1,6 +1,9 @@
 #!/bin/bash
 # Created by Nick Lueth, 12/4/2019.
 # Special thanks to Young Chen for inspiration: https://www.linkedin.com/in/youngchen/
+# -----------------------------------------IMPORTANT-----------------------------------------
+# Please do not copy this code and claim it to be your own. That would be excessively rude.
+# -------------------------------------------------------------------------------------------
 
 # Make a database user
 echo "Database account creation:"
